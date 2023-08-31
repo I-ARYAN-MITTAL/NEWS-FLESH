@@ -2,7 +2,7 @@
 
 Node.js project using express, ejs where we fetch the news data from news api.
 
-<img src="https://github.com/RahulNimkande/News-website/blob/main/Screenshot%20(192).png?raw=true" alt="GitHub Logo" style="max-width: 100%;">
+
 
 <a href="https://pure-thicket-19921.herokuapp.com/">Have a look on website upload on heroku</a>
 
